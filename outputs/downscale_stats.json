@@ -1,0 +1,16 @@
+{
+  "peak_temp_C_99pct": {
+    "truth": 47.7,
+    "bilinear": 47.1,
+    "diffusion_sample": 48.0,
+    "diffusion_ens_mean": 47.7
+  },
+  "spatial_sharpness": {
+    "truth": 0.798,
+    "bilinear": 0.535,
+    "diffusion_sample": 0.985
+  },
+  "n_ensemble_samples": 8,
+  "downscale_factor": 4,
+  "train_steps": 4000
+}

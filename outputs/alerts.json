@@ -1,0 +1,134 @@
+[
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-18T12:00:00",
+    "centroid": {
+      "lat": 21.05,
+      "lon": 72.607
+    },
+    "peak_efi": 0.821,
+    "anomaly_c": 3.8,
+    "severity": "moderate",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-19T12:00:00",
+    "centroid": {
+      "lat": 23.889,
+      "lon": 70.14
+    },
+    "peak_efi": 0.702,
+    "anomaly_c": 4.4,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-20T12:00:00",
+    "centroid": {
+      "lat": 23.38,
+      "lon": 70.448
+    },
+    "peak_efi": 0.894,
+    "anomaly_c": 6.6,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-21T12:00:00",
+    "centroid": {
+      "lat": 24.586,
+      "lon": 72.133
+    },
+    "peak_efi": 0.923,
+    "anomaly_c": 5.3,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-22T12:00:00",
+    "centroid": {
+      "lat": 25.651,
+      "lon": 74.548
+    },
+    "peak_efi": 0.805,
+    "anomaly_c": 5.6,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-23T12:00:00",
+    "centroid": {
+      "lat": 21.709,
+      "lon": 75.401
+    },
+    "peak_efi": 0.86,
+    "anomaly_c": 6.4,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-24T12:00:00",
+    "centroid": {
+      "lat": 22.86,
+      "lon": 76.065
+    },
+    "peak_efi": 0.84,
+    "anomaly_c": 5.7,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-25T12:00:00",
+    "centroid": {
+      "lat": 24.369,
+      "lon": 76.184
+    },
+    "peak_efi": 0.846,
+    "anomaly_c": 7.0,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-26T12:00:00",
+    "centroid": {
+      "lat": 26.949,
+      "lon": 75.006
+    },
+    "peak_efi": 0.863,
+    "anomaly_c": 7.3,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-27T12:00:00",
+    "centroid": {
+      "lat": 26.651,
+      "lon": 72.11
+    },
+    "peak_efi": 0.92,
+    "anomaly_c": 6.5,
+    "severity": "severe",
+    "radius_km": 5
+  },
+  {
+    "event": "heatwave",
+    "valid_time": "2020-05-28T12:00:00",
+    "centroid": {
+      "lat": 20.8,
+      "lon": 72.274
+    },
+    "peak_efi": 0.882,
+    "anomaly_c": 5.1,
+    "severity": "severe",
+    "radius_km": 5
+  }
+]

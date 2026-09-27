@@ -1,0 +1,16 @@
+xarray
+zarr
+gcsfs
+dask
+netcdf4
+scipy
+numpy
+pandas
+matplotlib
+plotly
+folium
+streamlit
+fastapi
+uvicorn
+torch
+diffusers
